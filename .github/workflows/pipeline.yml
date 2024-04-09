@@ -23,3 +23,5 @@ jobs:
       run: npm instal
     - name: start test 
       run: npm run test:unit
+    - name: Display SoftUni username
+      run: echo "Dimitar Aleksandrov"
